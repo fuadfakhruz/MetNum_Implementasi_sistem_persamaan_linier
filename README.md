@@ -1,9 +1,9 @@
 # Metode Numerik Implementasi Sistem Persamaan Linier
 Tugas Metode Numerik Implementasi Sistem Persamaan Linier
 
-Nama  : Muhammad Fuad Fakhruzzaki
-NIM   : 21120122130052
-Kelas : Metode Numerik Kelas D
+Nama  : Muhammad Fuad Fakhruzzaki/n
+NIM   : 21120122130052/n
+Kelas : Metode Numerik Kelas D/n
 
 Contoh running code menggunakan metode invers
 ![image](https://github.com/fuadfakhruz/Metode_Numerik/assets/153423917/ec50792e-1f85-493f-a54f-f5c68f036056)
