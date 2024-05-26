@@ -1,4 +1,4 @@
-# Metode_Numerik_Implementasi_Sistem_Persamaan_Linier
+# Metode Numerik Implementasi Sistem Persamaan Linier
 Tugas Metode Numerik Implementasi Sistem Persamaan Linier
 
 Nama  : Muhammad Fuad Fakhruzzaki
